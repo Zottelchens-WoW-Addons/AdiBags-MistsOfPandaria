@@ -1,0 +1,21 @@
+filter_name = "Mists Of Pandaria"
+filter_description = "Items from the Mists Of Pandaria expansion."
+filter_author = "Zottelchen"
+prefixes = [
+    "M",
+    "M-",
+    "4.",
+    "MOP",
+    "icon:626002",
+    "icon:629482",
+    "icon:606550",
+    "icon:630786",
+    "icon:626190",
+]
+
+[replacers]
+ADDON_COLOR = 0x00EB42
+TOC_VERSION = "100005"
+CURSE_ID = ""
+WAGO_ID = ""
+WOW_INTERFACE_ID = ""
