@@ -16,6 +16,6 @@ prefixes = [
 [replacers]
 ADDON_COLOR = 0x00EB42
 TOC_VERSION = "100100"
-CURSE_ID = ""
-WAGO_ID = ""
-WOW_INTERFACE_ID = ""
+CURSE_ID = "881487"
+WAGO_ID = "EGPXejG1"
+WOW_INTERFACE_ID = ""  # TODO
